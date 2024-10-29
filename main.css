@@ -1,0 +1,62 @@
+.body {
+    color: black;
+}
+
+header {
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 30px;
+    margin: 0 auto;
+    width: 1200px;
+
+}
+
+.navigation {
+    padding-top: 30px;
+    padding-left: 300px;
+    text-decoration: none;
+    margin: 0 auto;
+    width: 1100px;
+}
+
+li {
+    color: black;
+    margin: 0 auto;
+    display: inline;
+    padding: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+li a {
+    color: black;
+    text-decoration: none;
+}
+
+li:hover {
+    text-decoration: underline;
+    color: red;
+}
+
+.maincontent {
+    background-color: white;
+    margin: 0 auto;
+    height: 1200px;
+    width: 1200px;
+}
+
+.photocontent {
+    margin: 0 auto;
+    width: 1200px;
+}
+
+.textcontent {
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.logotip {
+    padding-top: 10px;
+    padding-left: 150px;
+    margin: 0 auto;
+    position: absolute;
+}
